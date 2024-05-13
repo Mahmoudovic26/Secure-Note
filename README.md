@@ -1,5 +1,4 @@
-%SecureNote%
-
+#SecureNote
 
 SecureNote is a Flutter application designed to provide a secure and personalized space for storing your notes without relying on biometric authentication. With SecureNote, you can confidently store sensitive information knowing that your notes are protected with a customizable passcode.
 
